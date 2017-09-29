@@ -11,3 +11,7 @@
 ## v1.0.2 (2017-02-20)
 
 - Add models for anvil_very_damaged, gold_nugget, beacon and gold_ore
+
+## v1.0.3 (2017-09-29)
+
+ - Import halloween cosmetics
